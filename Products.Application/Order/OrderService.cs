@@ -1,4 +1,5 @@
-﻿using Products.Application.Exceptions;
+﻿using Mapster;
+using Products.Application.Exceptions;
 using Products.Domain;
 
 namespace Products.Application.Order
