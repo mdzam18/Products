@@ -6,6 +6,6 @@
 
         public DateTime OrderDate { get; set; }
 
-        public int ToTalAmount { get; set; }
+        public int TotalAmount { get; set; }
     }
 }
